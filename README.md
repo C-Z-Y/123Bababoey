@@ -5,7 +5,7 @@
 <h2 align="center">🌐 Networking & Security Student | 💻 Web Developer | 📚 AUSMAT Graduate</h2>
 
 <p align="center">
-  🎓 Year 1 Semester 3 @ <strong>Sunway University</strong> (with Lancaster University)  
+  🎓 Year 2 Semester 3 @ <strong>Sunway University</strong> (with Lancaster University)  
   <br>🌱 Exploring Cybersecurity, Flexbox Layouts, and JavaScript Interactivity  
   <br>⚡ Fun Fact: I love doing stuff while listening to music 🎧
 </p>
