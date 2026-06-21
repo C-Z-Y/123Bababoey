@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Chen%20Zhi%20Yong%20👋&fontSize=40&fontAlign=center&fontColor=ffffff" />
 
 <!-- Intro -->
-<h2 align="center">🌐 Networking & Security Student | 💻 Web Developer | 📚 AUSMAT Graduate</h2>
+<h2 align="center">🌐 Networking & Security Student | 📚 AUSMAT Graduate</h2>
 
 <p align="center">
   🎓 Year 2 Semester 3 @ <strong>Sunway University</strong> (with Lancaster University)  
