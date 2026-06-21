@@ -44,9 +44,6 @@
 
 ## 📁 Featured Projects
 
-- 🎨 [Portfolio Website](https://github.com/123Bababoey/portfolio-site) — dark theme with JavaScript interactivity  
-- 📐 [Flexbox Layout Demo](https://github.com/123Bababoey/flexbox-lab) — responsive CSS layouts  
-- 🔐 [Cybersecurity Labs](https://github.com/123Bababoey/network-security-labs) — Wireshark + network setups
 
 ---
 
