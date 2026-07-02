@@ -36,7 +36,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C-Z-Y&show_icons=true&theme=tokyonight&cache_seconds=1800" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=C-Z-Y&theme=tokyonight&cache_seconds=1800" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Z-Y&layout=compact&theme=tokyonight&cache_seconds=1800" width="48%" />
 </p>
 
