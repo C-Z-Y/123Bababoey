@@ -12,6 +12,7 @@
 ---
 
 ## 🧠 About Me
+
 - Passionate about **cybersecurity**, network security, and secure system design.
 - Currently advancing in Endpoint Security and Network Security through Cisco Academy and university coursework.
 - Open to both **Red Team** (offensive) and **Blue Team** (defensive) cybersecurity opportunities.
@@ -20,6 +21,7 @@
 ---
 
 ## 🔧 Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -32,21 +34,22 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C-Z-Y&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Z-Y&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=C-Z-Y&show_icons=true&theme=tokyonight&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Z-Y&layout=compact&theme=tokyonight&cache_seconds=1800" width="48%" />
 </p>
 
 ---
 
 ## 📁 Featured Projects / Labs
 
-- **Simple Multi-Thread Port Scanner** - https://github.com/C-Z-Y/portscanner  
-
+- **Simple Multi-Thread Port Scanner** — TCP port scanner with banner grabbing built in Python from scratch · [View Repo](https://github.com/C-Z-Y/portscanner)
 
 ---
 
 ## 📫 Connect With Me
+
 <p align="center">
   <a href="mailto:chenzhiyong05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/zhi-yong-chen-925219314"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -55,7 +58,8 @@
 ---
 
 ## 💬 Quote I Live By
-> “Security is not a product, but a process.” – Bruce Schneier
+
+> "Security is not a product, but a process." – Bruce Schneier
 
 ---
 
